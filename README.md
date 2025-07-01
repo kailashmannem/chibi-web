@@ -11,25 +11,5 @@ A fun, interactive web-based chibi character that animates, reacts to your mouse
 <p>- **Sleep State:** If the mouse is inactive for 5 seconds or leaves the window, the chibi plays a sleep sequence (Idle → Tosleep → Sleeping). On return, it wakes up and resumes normal behavior.</p>
 <p>- **Responsive & Pixel-Perfect:** Works with pixel-art spritesheets and is fully responsive.</p>
 <hr>
-<h2>Folder Structure</h2>
-<hr>
-<p>chibi-web/</p>
-<p>  index.html</p>
-<p>  styles.css</p>
-<p>  script.js</p>
-<p>  sprites/</p>
-<p>    Attack_1.png</p>
-<p>    Attack_2.png</p>
-<p>    Attack_3.png</p>
-<p>    Attack_4.png</p>
-<p>    Hurt.png</p>
-<p>    Idle.png</p>
-<p>    Jump.png</p>
-<p>    Run.png</p>
-<p>    Sleeping.png</p>
-<p>    Tosleep.png</p>
-<p>    Wakeup.png</p>
-<p>    Walk.png</p>
-<hr>
 <p>Feel free to copy, modify, and use this README for your GitHub project!</p>
 <hr>
