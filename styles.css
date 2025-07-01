@@ -1,0 +1,21 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+#chibi-container {
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+}
+#chibi {
+  position: absolute;
+  width: 128px; /* Adjust to your frame width */
+  height: 128px; /* Adjust to your frame height */
+  background: url('sprites/Idle.png') left top no-repeat;
+  /* background-size removed for pixel-perfect sprites */
+  background-repeat: no-repeat;
+  image-rendering: pixelated;
+}
