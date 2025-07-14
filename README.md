@@ -1,4 +1,6 @@
 # Chibi Web Animation
+Try it out here! : https://kailashmannem.github.io/chibi-web/
+<hr>
 A fun, interactive web-based chibi character that animates, reacts to your mouse, and displays a variety of behaviors and states!
 <hr>
 <h2>Features</h2>
